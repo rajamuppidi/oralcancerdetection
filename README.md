@@ -38,5 +38,4 @@ This project is open-sourced under the MIT license. See the `LICENSE` file for m
 
 ## Contact
 For any queries regarding this project, please reach out to:
-- Raja Muppidi (your-email@example.com)
-- Bhuvana Muriki (partner-email@example.com)
+- Raja Muppidi (dr.rajamuppidi@gmail.com)
